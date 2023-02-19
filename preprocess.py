@@ -3,7 +3,7 @@
 """
 Created on Sat Feb 19 13:12:53 2022
 
-@author: siljegrue
+This script is written by Martin Hansen Skjelvareid
 """
 
 # preprocess

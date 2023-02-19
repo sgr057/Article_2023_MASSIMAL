@@ -3,7 +3,7 @@
 """
 Created on Sat Feb 19 13:11:59 2022
 
-@author: siljegrue
+This script is written by Martin Hansen Skjelvareid
 """
 
 import glob
